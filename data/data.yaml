@@ -1,0 +1,5 @@
+train: mask/images
+val: mask/images
+
+nc: 2
+names: [ "unmasked", "masking" ]
